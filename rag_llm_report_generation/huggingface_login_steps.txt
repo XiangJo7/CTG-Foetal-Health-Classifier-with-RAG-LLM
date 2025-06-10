@@ -1,0 +1,3 @@
+huggingface-cli login #login
+huggingface-cli whoami #check
+or refer to huggingface-hub documentation
